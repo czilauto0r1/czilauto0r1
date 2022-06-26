@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @czilauto0r
+- 👀 I’m interested in programming, cryptocurrency, blockchain
+- 🌱 I’m currently learning JavaScript
